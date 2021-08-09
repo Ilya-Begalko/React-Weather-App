@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="32918a39-0b5a-40ba-823b-1e25f0220d10" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+    <list default="true" id="32918a39-0b5a-40ba-823b-1e25f0220d10" name="Default Changelist" comment="ready application">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,21 +51,48 @@
       <updated>1628451420009</updated>
       <workItem from="1628451424473" duration="10000" />
       <workItem from="1628451440847" duration="5968000" />
-      <workItem from="1628504807147" duration="5750000" />
+      <workItem from="1628504807147" duration="6355000" />
     </task>
+    <task id="LOCAL-00001" summary="ready application">
+      <created>1628510694357</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1628510694357</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ready application" />
+    <option name="LAST_COMMIT_MESSAGE" value="ready application" />
   </component>
   <component name="WindowStateProjectService">
     <state x="607" y="325" key="#ESLint" timestamp="1628457115768">
       <screen x="0" y="0" width="1474" height="864" />
     </state>
     <state x="607" y="325" key="#ESLint/0.0.1474.864@0.0.1474.864" timestamp="1628457115768" />
-    <state x="400" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1628510061191">
+    <state x="330" y="165" key="Vcs.Push.Dialog.v2" timestamp="1628510702320">
       <screen x="0" y="0" width="1474" height="864" />
     </state>
-    <state x="400" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1474.864@0.0.1474.864" timestamp="1628510061191" />
+    <state x="330" y="165" key="Vcs.Push.Dialog.v2/0.0.1474.864@0.0.1474.864" timestamp="1628510702320" />
+    <state x="400" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1628510959483">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state x="400" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1474.864@0.0.1474.864" timestamp="1628510959483" />
   </component>
 </project>
